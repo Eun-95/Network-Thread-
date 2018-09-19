@@ -1,0 +1,13 @@
+C:\Users\은택\Desktop\WindowsFormsApplication1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\은택\Desktop\WindowsFormsApplication1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\은택\Desktop\WindowsFormsApplication1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\은택\Desktop\WindowsFormsApplication1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\은택\Desktop\WindowsFormsApplication1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\은택\Desktop\WindowsFormsApplication1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\은택\Desktop\WindowsFormsApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\은택\Desktop\WindowsFormsApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\은택\Desktop\WindowsFormsApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\은택\Desktop\WindowsFormsApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\은택\Desktop\WindowsFormsApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+C:\Users\은택\Desktop\WindowsFormsApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\은택\Desktop\WindowsFormsApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
